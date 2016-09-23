@@ -1,8 +1,10 @@
 body {
-  background-color: blue;
+  background-color: #2196f3;
 }
 
 
 .cv {
   background-color: white;
+  margin-left: 15%;
+  margin-right: 15%;
 }
